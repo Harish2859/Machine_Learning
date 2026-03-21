@@ -34,4 +34,7 @@ By analyzing feature importance, the model confirmed the historical "women and c
 
 <img width="635" height="500" alt="image" src="https://github.com/user-attachments/assets/dc8fe3a1-113c-4e1a-8c8c-78827f60226a" />
 
+<img width="890" height="706" alt="image" src="https://github.com/user-attachments/assets/637dc94c-2dca-4586-8c08-7e0d44a25c5b" />
+
+
 
