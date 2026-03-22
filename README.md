@@ -36,5 +36,9 @@ By analyzing feature importance, the model confirmed the historical "women and c
 
 <img width="890" height="706" alt="image" src="https://github.com/user-attachments/assets/637dc94c-2dca-4586-8c08-7e0d44a25c5b" />
 
+Diabetes Clinical Optimizer (Week 3)An exploration into deep learning training dynamics, focusing on Optimization and Regularization using the Pima Indians Diabetes dataset.🔬 Project OverviewThe goal of this "Clinical Trial" was to build a neural network that doesn't just memorize patient data (overfitting) but actually learns to generalize and predict diabetes in unseen patients.🛠️ Key Concepts AppliedAdam Optimizer: Replaced standard Stochastic Gradient Descent (SGD) to benefit from adaptive learning rates and momentum.Mini-Batch Training: Implemented a DataLoader with a batch size of 32, resulting in 20 iterations per epoch. This balanced training speed with gradient stability.Dropout (Regularization): Added a Dropout layer ($p=0.5$) to prevent neuron co-dependency and combat the overfitting observed in early trials.📊 The "Clinical Trial" ResultsDuring development, I compared two distinct training phases:The Overfitting Phase: Without sufficient regularization, the model showed a classic "divergence"—training loss continued to drop while validation loss skyrocketed after Epoch 23.The Optimized Phase: By increasing Dropout and utilizing Adam’s efficiency, the validation curve stabilized. The model stopped "memorizing" and started "learning."Conclusion: The final model maintains a consistent validation loss, proving that the regularization techniques successfully forced the network to learn general biological patterns rather than specific training samples.
+
+<img width="581" height="547" alt="image" src="https://github.com/user-attachments/assets/a90b152f-c309-4f46-a25a-113ca6a5e3ea" />
+
 
 
