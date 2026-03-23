@@ -41,5 +41,26 @@ Diabetes Clinical Optimizer (Week 3)An exploration into deep learning training d
 <img width="561" height="565" alt="image" src="https://github.com/user-attachments/assets/a93f94a5-3df4-4618-ae96-40ed9749712c" />
 
 
+# Breast Cancer Classification (PyTorch)
+
+This project implements a Deep Learning model using **PyTorch** to classify breast cancer tumors as Malignant or Benign based on the Wisconsin Diagnostic Breast Cancer (WDBC) dataset.
+
+## 🚀 Features
+* **GPU Acceleration**: Automatically detects and uses CUDA if available.
+* **Data Preprocessing**: Handles missing values and performs feature scaling using `StandardScaler`.
+* **Deep Learning Architecture**: A 3-layer fully connected Neural Network with ReLU activation and Dropout for regularization.
+* **High Accuracy**: Achieves **~99% accuracy** on the test set.
+
+## 🛠️ Tech Stack
+* **Language**: Python 3.x
+* **Framework**: PyTorch
+* **Data**: Pandas, Scikit-Learn
+
+## 📋 How to Run
+1. **Install Dependencies**:
+   ```bash
+   pip install torch pandas scikit-learn
+
+
 
 
