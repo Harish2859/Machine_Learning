@@ -63,6 +63,9 @@ This project implements a Deep Learning model using **PyTorch** to classify brea
 
 
 
+## RAG Learning Notebook (ragLearn.ipynb)
+This notebook is included in the repo as **ragLearn.ipynb**. It was created in Google Colab and walks through ChromaDB setup, custom embeddings, vector search, metadata filters, and multimodal examples. The screenshots below are captured from that notebook.
+
 ##Custom Embedding Functions
 <img width="1214" height="635" alt="image" src="https://github.com/user-attachments/assets/aa7c25f6-c592-4eb2-b224-1bfd2f012092" />
 
@@ -78,7 +81,6 @@ Metadata Filtering
 Multimodal Embeddings
 
 <img width="775" height="236" alt="image" src="https://github.com/user-attachments/assets/bba26085-711c-4bac-b29a-bf93bd7d3929" />
-
 
 
 
