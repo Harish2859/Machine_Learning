@@ -69,6 +69,9 @@ This project implements a Deep Learning model using **PyTorch** to classify brea
 ##Vector Search
 <img width="1179" height="415" alt="image" src="https://github.com/user-attachments/assets/ca5bb405-0fc5-4fb9-b028-a9d1271af9dc" />
 
+Full Text Search & Regex Search
+<img width="1145" height="235" alt="image" src="https://github.com/user-attachments/assets/ca3dd41b-32f7-4f8b-b6fc-9fb1fdcc40de" />
+
 
 
 
