@@ -12,8 +12,12 @@ try:
     print("Dataset loaded successfully!")
 except Exception as e:
     print(f"Error loading data: {e}")
-    raise SystemExit(1)
+    raise
 features = ['Age', 'Annual Income (k$)', 'Spending Score (1-100)']
+missing_features = [feature for feature in features if feature not in df.columns]
+if missing_features:
+    print(f"Missing required columns: {', '.join(missing_features)}")
+    raise SystemExit(1)
 X = df[features]
 scaler = StandardScaler()
 X_scaled = scaler.fit_transform(X)
