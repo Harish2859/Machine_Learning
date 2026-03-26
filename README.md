@@ -72,6 +72,10 @@ This project implements a Deep Learning model using **PyTorch** to classify brea
 Full Text Search & Regex Search
 <img width="1145" height="235" alt="image" src="https://github.com/user-attachments/assets/ca3dd41b-32f7-4f8b-b6fc-9fb1fdcc40de" />
 
+Metadata Filtering
+<img width="1507" height="223" alt="image" src="https://github.com/user-attachments/assets/daf27a74-5b22-4f2d-bf51-519c594c6b4b" />
+
+
 
 
 
