@@ -66,5 +66,9 @@ This project implements a Deep Learning model using **PyTorch** to classify brea
 ##Custom Embedding Functions
 <img width="1214" height="635" alt="image" src="https://github.com/user-attachments/assets/aa7c25f6-c592-4eb2-b224-1bfd2f012092" />
 
+##Vector Search
+<img width="1179" height="415" alt="image" src="https://github.com/user-attachments/assets/ca5bb405-0fc5-4fb9-b028-a9d1271af9dc" />
+
+
 
 
