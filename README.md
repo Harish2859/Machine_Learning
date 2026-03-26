@@ -76,6 +76,7 @@ Metadata Filtering
 <img width="1507" height="223" alt="image" src="https://github.com/user-attachments/assets/daf27a74-5b22-4f2d-bf51-519c594c6b4b" />
 
 Multimodal Embeddings
+
 <img width="775" height="236" alt="image" src="https://github.com/user-attachments/assets/bba26085-711c-4bac-b29a-bf93bd7d3929" />
 
 
