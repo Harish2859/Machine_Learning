@@ -1,10 +1,15 @@
 [project]
+<<<<<<< HEAD
 name = "ml-model"
+=======
+name = "genai"
+>>>>>>> 148955abe7334c20c9767c82ba4dc3356bed2377
 version = "0.1.0"
 description = "Add your description here"
 readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
+<<<<<<< HEAD
     "fastapi>=0.135.3",
     "ipykernel>=7.2.0",
     "matplotlib>=3.10.8",
@@ -13,4 +18,19 @@ dependencies = [
     "scikit-learn>=1.8.0",
     "scipy>=1.17.1",
     "uvicorn>=0.42.0",
+=======
+    "fastembed>=0.8.0",
+    "groq<1.0.0",
+    "ipykernel>=7.2.0",
+    "langchain>=0.3.25",
+    "langchain-chroma>=0.1.0,<1.0.0",
+    "langchain-community>=0.4.1",
+    "langchain-groq>=1.1.2",
+    "langchain-huggingface>=1.2.1",
+    "langchain-openai>=1.1.12",
+    "langchain-xai>=1.2.2",
+    "pydantic>=2.12.5",
+    "pypdf>=6.9.2",
+    "python-dotenv>=1.2.2",
+>>>>>>> 148955abe7334c20c9767c82ba4dc3356bed2377
 ]
