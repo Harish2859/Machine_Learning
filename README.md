@@ -82,5 +82,10 @@ Multimodal Embeddings
 
 <img width="775" height="236" alt="image" src="https://github.com/user-attachments/assets/bba26085-711c-4bac-b29a-bf93bd7d3929" />
 
+linear Regression
+
+<img width="640" height="480" alt="Figure_1" src="https://github.com/user-attachments/assets/cb29a8f6-cb1a-4372-aa22-cce4ab8c6f1e" />
+
+
 
 
